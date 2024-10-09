@@ -31,7 +31,7 @@ End Program with 'q'. Allow the program to be terminated by pressing the 'q' key
 
 
 ## Program:
-``` Python
+
 ### Developed By: P KEERTHANA
 ### Register No: 212223240069
 
@@ -105,7 +105,6 @@ cap.release()
 cv2.destroyAllWindows()  
 ```
 
-```
 ## Output
 
 ### i) Write the frame as JPG image
